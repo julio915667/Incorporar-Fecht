@@ -1,0 +1,67 @@
+[
+    {
+      "nombre": "Placa de Video ZOTAC GAMING", 
+      "precio": 140000,
+      "id": 1,
+      "description": "GeForce GTX 1660 Ti 6GB ZT-T16610F-10L",
+      "src": "img/grafica1.jpg"
+    },
+    {
+      "nombre": "RAM",
+      "precio": 10000,
+      "id": 2,
+      "description": "16GB, 2300MZH",
+      "src": "img/ram1.webp"
+    },
+    {
+      "nombre": "Fuente de Alimentacion",
+      "precio": 25000,
+      "id": 3,
+      "description": "MSI MPG A750GF",
+      "src": "img/fuentes-msi.png"
+  
+    },
+    {
+      "nombre": "Mouse Gamer",
+      "precio": 19500,
+      "id": 4, 
+      "description": "Thermaltake Level 20 Rgb",
+      "src": "img/mouse.jpg"
+    },
+    {
+      "nombre": "Teclado Gamer",
+      "precio": 9500,
+      "id": 5,
+      "description": "Gadnic ZT800 QWERTY Outemu Blue español España color negro con luz RGB",
+      "src":"img/teclado.jpg"
+    },
+    {
+      "nombre": "Monitor Gamer",
+      "precio": 50000,
+      "id": 6,
+      "description": "Monitor Gigabyte 24 pulgadas.",
+      "src":"img/monitor.webp"
+      
+    },{
+      "nombre": "Disco Duro Externo",
+      "description": "Western Digital WD Elements Portable WDBUZG0010BBK 1TB negro",
+      "precio": 9500,
+      "src":"img/sdd.webp",
+      "id": 7
+      
+    },
+    {
+      "nombre": "PC DE OFICINA",
+      "description": "MOTHERBOARD H410,MICRO INTEL CELERON G5905 DC 3.5GHZ,MEMORIA 8GB DDR4 2666 CRUCIAL UDIMM,SSD MARKVISION 240GB SATA III,GABINETE KIT",
+      "precio": 60000,
+      "src":"img/pc1.jpg", 
+      "id": 8
+    },
+    {
+      "nombre": "PC GAMER",
+      "description": "MOTHER H510M PCIE 4.0 DDR4 USB 3.2, INTEL I9 10MA GEN Dual Core, 8GB 2666MHZ DDR4 1TB SATA3 WD BLUE, GABINETE:Atx-Con Fuente 550W TECLADO, MOUSE USB, PARLANTES USB Potenciados.",
+      "precio": 95000,
+      "src":"img/pc2.jpg", 
+      "id": 9
+    }
+  ]
